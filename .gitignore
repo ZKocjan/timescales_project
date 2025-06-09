@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+art_tools/
+patches_data/cubes_ngc300rt-a10e0.03.npy
+tools/__pycache__/
+.env
